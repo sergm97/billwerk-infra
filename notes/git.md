@@ -71,6 +71,14 @@ The `switch` command allows to switch branches. Including the `-c` flag tells Gi
 
 ## Git log
 
+![Git log](./assets/git-log.png)
+
+Commands:
+
 ```bash
-git log --decorate
+git log --decorate=no
+git log --decorate=full
+git log --decorate=short # default
+
+git log --oneline 
 ```
