@@ -83,3 +83,8 @@ git log --decorate=short # default
 git log --oneline 
 git log --oneline --graph --all # ASCII representation of the history
 ```
+
+Links:
+
+* [git log --graph docs](https://git-scm.com/docs/git-log#Documentation/git-log.txt---graph)
+* [git log --all docs](https://git-scm.com/docs/git-log#Documentation/git-log.txt---all)
