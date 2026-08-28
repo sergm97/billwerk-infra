@@ -81,4 +81,5 @@ git log --decorate=full
 git log --decorate=short # default
 
 git log --oneline 
+git log --oneline --graph --all # ASCII representation of the history
 ```
